@@ -1,4 +1,4 @@
-
+.
 def lvProjectPath = "source\\Jenkins.lvproj"
 def lvBuildSpecName = "myBuildSpec"
 def lvVersion = "20.0"
